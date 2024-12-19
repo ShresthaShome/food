@@ -1,0 +1,95 @@
+.image {
+  position: relative;
+  left: -45px;
+}
+
+.container {
+  margin-left: 79px;
+  margin-right: 59px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.text-block {
+  color: #5b2020;
+  font-family: Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans,
+    Tahoma, sans-serif;
+  font-size: 31px;
+  position: relative;
+  left: -10px;
+  right: -3px;
+}
+
+.navbar {
+  background-color: #85b7a1;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+.nav-link {
+  font-family: Droid Serif, serif;
+  font-size: 20px;
+  margin-top: 7px;
+}
+
+.button {
+  background-color: #ff5c5c;
+  color: white;
+  border: none;
+  border-radius: 30px;
+  padding: 10px 20px;
+  font-family: Oswald, sans-serif;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.w-nav-menu {
+  display: flex;
+  gap: 30px;
+}
+
+.w-nav-brand {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+
+.image-2 {
+  position: relative;
+  top: 63px;
+}
+
+.div-block {
+  margin-top: 57px;
+  padding-left: 32px;
+}
+
+.heading {
+  color: #6c2020;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 100px;
+  margin-bottom: -20px;
+}
+
+.heading-2 {
+  color: #5d0c4c;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: PT serif, serif;
+}
+
+.body {
+  background-image: linear-gradient(#b7707080, #b7707080);
+}
+
+.pic {
+  margin-top: 13px;
+  margin-bottom: 13px;
+  padding: 15px 38px;
+}
